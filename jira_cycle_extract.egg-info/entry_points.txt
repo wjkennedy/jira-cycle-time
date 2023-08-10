@@ -1,0 +1,3 @@
+[console_scripts]
+jira-cycle-extract = jira_cycle_extract.cli:main
+

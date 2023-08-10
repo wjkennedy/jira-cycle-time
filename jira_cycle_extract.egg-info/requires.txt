@@ -1,0 +1,12 @@
+jira
+PyYAML
+pandas>=0.18
+numpy
+python-dateutil
+pydicti
+openpyxl
+
+[charting]
+seaborn
+matplotlib
+statsmodels
